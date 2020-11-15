@@ -5,3 +5,10 @@ img {
 body {
     background-color: rgb(209, 209, 209);
 }
+h1  {
+    color: rgb(181, 107, 190);
+}
+h4 {
+    font-size: 30px;
+    padding-left: 30px;
+}
